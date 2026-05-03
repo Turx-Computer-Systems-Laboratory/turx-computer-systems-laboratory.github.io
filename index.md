@@ -19,7 +19,7 @@ At **Turx Lab**, we believe that significant systems research can be conducted w
 ### Core Research Areas
 
 - **Operating Systems Architecture:** Designing and implementing **Turx OS**, a highly modular x86-64 microkernel-based operating system.
-- **Experimental Algorithms:** Researching novel data structures and optimizations (e.g., **Turker Algorithm**) specifically tailored for low-level system performance.
+- **Experimental Algorithms:** Researching novel data structures and optimizations specifically tailored for low-level system performance.
 - **Systems Emulation & Bare-Metal Testing:** Utilizing hypervisors, advanced QEMU environments, and GDB to test and debug kernel code directly on physical and emulated hardware.
 
 ---
